@@ -4,4 +4,4 @@ This is readme file.
 
 [![LICENSE](https://img.shields.io/github/license/eieihtwesan/sem.svg?style=flat-square)](https://github.com/eieihtwesan/sem/blob/master/LICENSE)
 
-[![Releases](https://img.shields.io/github/release/eieihtwesan/sem/all.svg?style=flat-square)](https://github.com/eieihtwesan/sem/releases)
+[![Releases](https://img.shields.io/github/release/eieihtwesan/sem/all.svg?ste=flat-square)](https://github.com/eieihtwesan/sem/releases)
